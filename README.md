@@ -79,9 +79,11 @@ The model is evaluated using:
 
 📁 Project Structure
 
-MNIST-Neural-Network/
-│
+MNIST-Neural-Network
+
+
 ├── MNIST.ipynb
+
 └── README.md
 
 🚀 How to Run
